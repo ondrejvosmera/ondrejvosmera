@@ -8,4 +8,4 @@
 
 #### Skills
 
-[![](https://skillicons.dev/icons?i=html,css,js)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://skillicons.dev/icons?i=react)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://skillicons.dev/icons?i=sass)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![](https://skillicons.dev/icons?i=figma,ps,ai)]() 
+[![](https://skillicons.dev/icons?i=html,css,js)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://skillicons.dev/icons?i=react)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://skillicons.dev/icons?i=sass)]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![](https://skillicons.dev/icons?i=figma,ps,ai,ae)]() 
