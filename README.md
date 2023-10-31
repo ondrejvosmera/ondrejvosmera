@@ -1,6 +1,6 @@
-## Hi there 👋🏻
+## Hey! 👋🏻
 
-### I'm Ondřej, junior frontend developer based in Prague.
+### I'm Ondřej, 42Prague student with frontend skills, based in Prague.
 
 #### Socials
 
